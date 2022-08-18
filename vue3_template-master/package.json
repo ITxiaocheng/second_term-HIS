@@ -1,0 +1,38 @@
+{
+  "name": "vue3-02",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.6",
+    "animate.css": "^4.1.1",
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "element-china-area-data": "^5.0.2",
+    "element-plus": "^2.2.9",
+    "html2canvas": "^1.4.1",
+    "swiper": "^8.3.1",
+    "vue": "^3.0.0",
+    "vue-count-to": "^1.0.13",
+    "vue-router": "^4.0.0-0",
+    "vue-session": "^1.0.0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
